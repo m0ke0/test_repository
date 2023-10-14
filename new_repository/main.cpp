@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+    // modificare de test
     int a, b;
     cin >> a >> b;
 
