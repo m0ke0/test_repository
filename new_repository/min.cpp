@@ -1,7 +1,9 @@
-#include <iostream>
-
+#include <bits/stdc++.h>
+// min
 using namespace std;
 
 int main()
 {
+    int a, b;
+    cin >> a >> b;
 }
