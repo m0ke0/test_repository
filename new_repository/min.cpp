@@ -1,6 +1,5 @@
 #include <bits/stdc++.h>
 // min
-
 using namespace std;
 
 int main()
